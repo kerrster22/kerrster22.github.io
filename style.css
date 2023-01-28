@@ -1,8 +1,12 @@
+:root {
+  --blk: #202731;
+}
+
 body {
   margin: 0;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: white;
-  background: #202731;
+  background: var(--blk);
   overflow-x: hidden;
 }
 ul {
